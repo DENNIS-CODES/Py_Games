@@ -13,6 +13,7 @@ RECT_HEIGHT = 50
 
 
 def on_draw(delta_time):
+    
     """
     Use this function to draw everything to the screen.
     """
